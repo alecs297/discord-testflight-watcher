@@ -22,4 +22,4 @@ Once `settings.json` is changed, just use `node index.js` to execute the script.
 
 ## Beta Programs
 
-If you want other cool beta programs to watch over, this repo lists them https://github.com/pluwen/awesome-testflight-link
+If you want other cool beta programs to watch over, this repo lists them <https://github.com/pluwen/awesome-testflight-link>
