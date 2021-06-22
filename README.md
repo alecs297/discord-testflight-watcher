@@ -1,6 +1,6 @@
 # Discord Testflight Programs watcher
 
-Very basic Node.js script that sends webhook data when a testflight link is not full.
+Very basic Node.js script that sends webhook data when a testflight link is available.
 
 This script refreshes the invites every 30 seconds and doesn't require a discord bot account.
 
@@ -14,8 +14,8 @@ This repo is not maintained and the script itself was written in under one hour,
 
 ## Setup
 
-- make sure to have a relatively recent version of node installed (too busy to check for any exact one)
-- install the dependencies via `npm init`
+- make sure to have a relatively recent version of node installed (too lazy / busy to check for the exact one)
+- install the dependencies via `npm install`
 - Copy the `settings.json.example` to `settings.json` and modify it to your needs. The ID of the testflight program corresponds to the last part of the invite ( `https://testflight.apple.com/join/XXXXXXXX` ), the URL field corresponds to the webhook URL.
 
 ## Usage
