@@ -1,0 +1,22 @@
+{
+  "name": "discord-testflight-watcher",
+  "version": "1.0.0",
+  "description": "Basic script that sends webhook data when a testflight beta is not full anymore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alecs297/discord-testflight-watcher.git"
+  },
+  "author": "Fouiny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alecs297/discord-testflight-watcher/issues"
+  },
+  "homepage": "https://github.com/alecs297/discord-testflight-watcher#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
